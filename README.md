@@ -29,7 +29,6 @@ Chatbots, Game Engines, Machine Learning & NLP.
 [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj)
 
 
----
 <p align="center">:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:</p>
 
 <!--
