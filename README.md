@@ -6,10 +6,14 @@ I'm a Computer Science student and programming is my passion.
 I love learning as much as I love teaching, sharing knowledge is a high human value!
 
 #### Main skills 
-![C++][C++badge] ![Bash][Bashbadge] ![Flex and Bison][FlexAndBisonbadge] ![SFML][SFMLbadge] ![SQLite][SQLitebadge]
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=GNU+bash&logoColor=white)
+![Flex and Bison](https://img.shields.io/badge/-Flex%20%26%20Bison-orange?style=flat-square&logo=GNU&logoColor=white)
+![SFML](https://img.shields.io/badge/-SFML-green?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-gray?logo=sqlite&logoColor=white&style=flat-square)
 
 #### Currently learning
-![R][Rbadge]
+![R](https://img.shields.io/badge/-R-brown?style=flat-square&logo=R&logoColor=white)
 
 #### Areas of interest
 Chatbots, Game Engines, Machine Learning & NLP.
@@ -18,31 +22,13 @@ Chatbots, Game Engines, Machine Learning & NLP.
 
 ![Outlook](https://img.shields.io/badge/-miguelmejiajimenez@hotmail.com-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)
 
-[![MailMe][MailMebadge]](mailto:miguelmejiajimenez@hotmail.com)
-[![LinkedIn][LinkedInbadge]](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
+
 
 <div align="center">
 	:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:
 </div>
 
-
-
-
-[LinkedInbadge]:https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=C&logoColor=white)
-
-[MailMebadge]: https://img.shields.io/badge/MAIL_ME-miguelmejiajimenez@hotmail.com-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white
-
-[C++badge]:https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square
-
-[SQLitebadge]:https://img.shields.io/badge/SQLite-gray?logo=sqlite&logoColor=white&style=flat-square
-
-[SFMLbadge]:https://img.shields.io/badge/-SFML-green?style=flat-square
-
-[FlexAndBisonbadge]:https://img.shields.io/badge/-Flex%20%26%20Bison-orange?style=flat-square&logo=GNU&logoColor=white
-
-[Bashbadge]:https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=GNU+bash&logoColor=white
-
-[Rbadge]:https://img.shields.io/badge/-R-brown?style=flat-square&logo=R&logoColor=white
 
 <!--
 <img src="https://img.shields.io/github/followers/MiguelMJ?label=Follow&style=social">
