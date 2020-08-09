@@ -27,6 +27,7 @@ Chatbots, Game Engines, Machine Learning & NLP.
 
 
 
+
 [LinkedInbadge]:https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=C&logoColor=white)
 
 [MailMebadge]: https://img.shields.io/badge/MAIL_ME-miguelmejiajimenez@hotmail.com-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white
