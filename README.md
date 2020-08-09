@@ -1,5 +1,6 @@
 ## Hello there! I'm Miguel
 
+<div align="center">
 #### About me
 I'm a Computer Science student and programming is my passion.
 
@@ -25,7 +26,6 @@ Chatbots, Game Engines, Machine Learning & NLP.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
 
 
-<div align="center">
 	:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:
 </div>
 
