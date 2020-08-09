@@ -1,6 +1,6 @@
+
 ## Hello there! I'm Miguel
 
-<div align="center">
 #### About me
 I'm a Computer Science student and programming is my passion.
 
@@ -18,17 +18,15 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 
 #### Areas of interest
 Chatbots, Game Engines, Machine Learning & NLP.
-
+---
 #### Contact
 
 ![Outlook](https://img.shields.io/badge/-miguelmejiajimenez@hotmail.com-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
 
-
-	:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:
-</div>
-
+---
+<p align="center">:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:</p>
 
 <!--
 <img src="https://img.shields.io/github/followers/MiguelMJ?label=Follow&style=social">
