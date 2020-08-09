@@ -18,7 +18,7 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 
 #### Areas of interest
 Chatbots, Game Engines, Machine Learning & NLP.
----
+***
 #### Contact
 
 ![Outlook](https://img.shields.io/badge/-miguelmejiajimenez@hotmail.com-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)
