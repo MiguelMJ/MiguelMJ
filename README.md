@@ -1,7 +1,7 @@
 ## Hello there! I'm Miguel :octocat:
 
 #### About me
-I'm a Computer Science student. Programming is my passion and facing challenges excites me, so I'm always looking for something to work on.
+I'm a Computer Science student and programming is my passion.
 
 I love learning as much as I love teaching, sharing knowledge is a high human value!
 
@@ -9,10 +9,10 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 ![C++][C++badge] ![Bash][Bashbadge] ![Flex and Bison][FlexAndBisonbadge] ![SFML][SFMLbadge] ![SQLite][SQLitebadge]
 
 #### Currently learning
-![R][Rbadge].
+![R][Rbadge]
 
 #### Areas of interest
-Chatbots, Game Engines, Machine Learning.
+Chatbots, Game Engines, Machine Learning & NLP.
 
 #### Contact
 
