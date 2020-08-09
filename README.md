@@ -18,7 +18,7 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 
 #### Areas of interest
 Chatbots, Game Engines, Machine Learning & NLP.
-***
+
 #### Contact me
 
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)](mailto:miguelmejiajimenez@hotmail.com)
@@ -28,7 +28,7 @@ Chatbots, Game Engines, Machine Learning & NLP.
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-gray?&style=flat-square&logo=stack%20overflow&logoColor=orange)](https://stackoverflow.com/users/8757033/miguel?tab=profile)
 [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj)
 
-
+***
 <p align="center">:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:</p>
 
 <!--
