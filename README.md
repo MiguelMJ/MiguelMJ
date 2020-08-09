@@ -2,6 +2,7 @@
 
 #### About me
 I'm a Computer Science student. Programming is my passion and facing challenges excites me, so I'm always looking for something to work on.
+
 I love learning as much as I love teaching, sharing knowledge is a high human value!
 
 #### Main skills 
