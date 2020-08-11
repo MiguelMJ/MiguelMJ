@@ -24,8 +24,8 @@ Chatbots, Game Engines, Machine Learning & NLP.
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)](mailto:miguelmejiajimenez@hotmail.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?&style=flat-square&logo=gmail&logoColor=white)](mailto:miguelmjvg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
-[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logColor=red)](https://www.youtube.com/channel/UCUT1z5Tf6y68_nRvRGCaq-g)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-gray?&style=flat-square&logo=stack%20overflow&logoColor=orange)](https://stackoverflow.com/users/8757033/miguel?tab=profile)
+<!--[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logColor=red)](https://www.youtube.com/channel/UCUT1z5Tf6y68_nRvRGCaq-g)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-gray?&style=flat-square&logo=stack%20overflow&logoColor=orange)](https://stackoverflow.com/users/8757033/miguel?tab=profile) -->
 [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj)
 
 ***
