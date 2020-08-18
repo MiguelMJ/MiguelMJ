@@ -19,14 +19,18 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 #### Areas of interest
 Chatbots, Game Engines, Machine Learning & NLP.
 
-#### Contact me
+#### Where you can find me
 
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?&style=flat-square&logo=microsoft%20outlook&logoColor=white)](mailto:miguelmejiajimenez@hotmail.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?&style=flat-square&logo=gmail&logoColor=white)](mailto:miguelmjvg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
 [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj)
-<!--[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logColor=red)](https://www.youtube.com/channel/UCUT1z5Tf6y68_nRvRGCaq-g)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-gray?&style=flat-square&logo=stack%20overflow&logoColor=orange)](https://stackoverflow.com/users/8757033/miguel?tab=profile) -->
+<!--
+[![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logColor=red)](https://www.youtube.com/channel/UCUT1z5Tf6y68_nRvRGCaq-g)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-gray?&style=flat-square&logo=stack%20overflow&logoColor=orange)](https://stackoverflow.com/users/8757033/miguel?tab=profile) 
+-->
+
+<a href="https://stackoverflow.com/users/8757033/miguel"><img src="https://stackoverflow.com/users/flair/8757033.png" width="208" height="58" alt="profile for Miguel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Miguel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ***
 <p align="center">:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:</p>
