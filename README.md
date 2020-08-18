@@ -9,15 +9,15 @@ I love learning as much as I love teaching, sharing knowledge is a high human va
 #### Main skills 
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=GNU+bash&logoColor=white)
-![Flex and Bison](https://img.shields.io/badge/-Flex%20%26%20Bison-orange?style=flat-square&logo=GNU&logoColor=white)
+![Flex and Bison](https://img.shields.io/badge/-Flex%20%26%20Bison-darkgrey?style=flat-square&logo=GNU&logoColor=white)
 ![SFML](https://img.shields.io/badge/-SFML-green?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-gray?logo=sqlite&logoColor=white&style=flat-square)
 
 #### Currently learning
 ![R](https://img.shields.io/badge/-R-brown?style=flat-square&logo=R&logoColor=white)
-
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white)
 #### Areas of interest
-Chatbots, Game Engines, Machine Learning & NLP.
+Chatbots :robot: Game Engines :gear: Machine Learning :brain: NLP :speaking_head:
 
 #### Where you can find me
 
