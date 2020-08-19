@@ -1,11 +1,6 @@
 
 ## Hello there! I'm Miguel
 
-#### About me
-I'm a Computer Science student and programming is my passion.
-
-I love learning as much as I love teaching, sharing knowledge is a high human value!
-
 #### Main skills 
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-purple?style=flat-square&logo=GNU+bash&logoColor=white)
