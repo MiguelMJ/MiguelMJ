@@ -33,7 +33,7 @@ Chatbots :robot: Game Engines :gear: Machine Learning :brain: NLP :speaking_head
 
 
 ***
-<p align="center">:arrow_down: :octocat: Check out my work! :octocat: :arrow_down:</p>
+<p align="center">:octocat: Check out my repos and star what you like! :octocat:</p>
 
 <!--
 <img src="https://img.shields.io/github/followers/MiguelMJ?label=Follow&style=social">
