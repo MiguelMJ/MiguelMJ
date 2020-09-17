@@ -15,4 +15,4 @@
   <a href="https://stackoverflow.com/users/8757033/miguel"><img src="https://stackoverflow.com/users/flair/8757033.png" width="208" height="58" alt="profile for Miguel at Stack Overflow" title="profile for Miguel at Stack Overflow"></a> 
 
 ***
-<h4 align="center">:octocat: Take a look to repos and star what you like! :octocat:</h4>
+<h4 align="center">:octocat: Take a look and star what you like! :octocat:</h4>
