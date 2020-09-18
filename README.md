@@ -10,6 +10,8 @@
 
 - I keep a weekly blog in [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj)
 
+- You can also read it in [my personal website](https://miguelmj.github.io/), where also live the documentation of my projects.
+
 -  You can also find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US)
 
   <a href="https://stackoverflow.com/users/8757033/miguel"><img src="https://stackoverflow.com/users/flair/8757033.png" width="208" height="58" alt="profile for Miguel at Stack Overflow" title="profile for Miguel at Stack Overflow"></a> 
