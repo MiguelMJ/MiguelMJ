@@ -16,9 +16,9 @@
 - You can also read it in my personal site [![](https://miguelmj.github.io/assets/img/favicon-32x32.png)](miguelmj.github.io)
   - The documentation of my projects also live there!
 
--  If you like what I do you, you can [![buy me a coffee](https://img.shields.io/badge/-buy_me_a coffe-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj)
+-  If you like what I do you, you can [![buy me a coffee](https://img.shields.io/badge/-buy_me_a_coffe-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj)
 
-- You will find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US) and ![Stack Overflow](https://img.shields.io/badge/-Stack Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
+- You will find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US) and ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
 
 ***
