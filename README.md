@@ -22,4 +22,14 @@
 
 
 ***
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMJ&show_icons=true">  
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img center="align" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMJ&layout=compact&exclude_repo=MiguelMJ,MiguelMJ.github.io">
+</a>
+</p>
+
 <h4 align="center">:octocat: Take a look and star what you like! :octocat:</h4>
