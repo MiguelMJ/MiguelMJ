@@ -13,7 +13,7 @@
 
 - I keep a weekly blog in [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj).
 
-- You can also read it in my personal site [![](https://miguelmj.github.io/assets/img/favicon-32x32.png)](miguelmj.github.io)
+- You can also read it in my personal site [![](https://miguelmj.github.io/assets/img/favicon-32x32.png)](https://miguelmj.github.io)
   - The documentation of my projects also live there!
 
 -  If you like what I do you, you can [![buy me a coffee](https://img.shields.io/badge/-buy_me_a_coffe-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj)
