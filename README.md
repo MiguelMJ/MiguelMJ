@@ -2,7 +2,7 @@
 
 :point_right: **About**
 
-- My favorite tools are C++, SFML, Bash and Flex & Bison. I also use Bash, Java and Python.
+- My favorite tools are C++, SFML, and Flex & Bison. I also use Bash, Java and Python.
 
 - Currently I'm learning Prolog and _web development_. I plan to eventually learn R, Matlab or Octave.
 
@@ -16,7 +16,7 @@
 
 - I keep a weekly blog in [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj) and other stuff in my [personal site](https://miguelmj.github.io).
 
-**Latest blog posts**
+:computer: **Latest blog posts**
 
 ```
 <!-- BLOG-POST-LIST:START -->
