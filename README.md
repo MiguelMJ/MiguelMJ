@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [The Turing Machine made understandable](https://dev.to/miguelmj/the-turing-machine-made-understandable-35po)
 - [5 Tips for programming and CS remote teachers](https://dev.to/miguelmj/5-tips-for-programming-and-cs-remote-teachers-1gg7)
 - [Are you going to learn that? - Ambiguity of "Programming"](https://dev.to/miguelmj/are-you-going-to-learn-that-ambiguity-of-programming-1kdj)
 - [Beginner tips to do Algebra in Python](https://dev.to/miguelmj/beginner-tips-to-do-algebra-in-python-477e)
 - [Thoughts on declarative programming - Why I'm learning Prolog](https://dev.to/miguelmj/thoughts-on-declarative-programming-why-i-m-learning-prolog-43be)
-- [Writing a Conversational Interface Library - Adapted Regular Expressions](https://dev.to/miguelmj/writing-a-conversational-interface-library-adapted-regular-expressions-6mn)
 
 <!-- BLOG-POST-LIST:END -->
 
