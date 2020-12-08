@@ -8,7 +8,7 @@
 
 - My general areas of interests are <i>:robot: Chatbots :gear: Game Engines :brain: Machine Learning :speaking_head: NLP</i>.
 
-:v: **Contact me**
+:mailbox: **Contact me**
 
 - E-mail: miguelmejiajimenez@hotmail.com
 
@@ -18,9 +18,7 @@
 
 :writing_hand: **Latest blog posts**
 
-```
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-```
 
 <h4 align="center">:octocat: Star the repos you like! :octocat:</h4>
