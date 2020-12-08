@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my profile!</h2>
 
 - I usually work with ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) ![SFML](https://img.shields.io/badge/-SFML-green?style=flat-square) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU+bash&logoColor=white)  ![Flex and Bison](https://img.shields.io/badge/-Flex%20%26%20Bison-A42E2B?style=flat-square&logo=GNU&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) 
-- Currently I'm learning ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) ![Prolog](https://img.shields.io/badge/-Prolog-ff9900?style=flat-square) and _front-end web development_.
+- Currently I'm learning <!--![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)--> ![Prolog](https://img.shields.io/badge/-Prolog-ff9900?style=flat-square) and _web development_.
 - My general areas of interests are <i>:robot: Chatbots :gear: Game Engines :brain: Machine Learning :speaking_head: NLP</i> but I'm always looking for new things to learn.
 
 ***
