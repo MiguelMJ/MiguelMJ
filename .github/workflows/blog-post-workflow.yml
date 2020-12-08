@@ -12,5 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/miguelmj"
-          template: ":writing_hand: [$date] [$title]($url)$newline$description"
           tag_post_pre_newline: true
