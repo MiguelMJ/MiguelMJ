@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Miguel</h2>
 
-:point_right: **About**
+:page_facing_up: **About**
 
 - My favorite tools are C++, SFML, and Flex & Bison. I also use Bash, Java and Python.
 
@@ -16,7 +16,7 @@
 
 - I keep a weekly blog in [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj) and other stuff in my [personal site](https://miguelmj.github.io).
 
-:computer: **Latest blog posts**
+:writing_hand: **Latest blog posts**
 
 ```
 <!-- BLOG-POST-LIST:START -->
