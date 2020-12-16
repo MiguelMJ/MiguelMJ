@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Are one liners always pythonic?](https://dev.to/miguelmj/are-one-liners-always-pythonic-552n)
 - [Why and how to use pen and paper - Designing algorithms with no code](https://dev.to/miguelmj/why-and-how-to-use-pen-and-paper-design-an-algorithm-11nn)
 - [Writing a Conversational User Interface Library - Full Series](https://dev.to/miguelmj/writing-a-conversational-user-interface-library-full-series-3dc5)
 - [The Turing Machine made understandable](https://dev.to/miguelmj/the-turing-machine-made-understandable-35po)
 - [5 Tips for programming and CS remote teachers](https://dev.to/miguelmj/5-tips-for-programming-and-cs-remote-teachers-1gg7)
-- [Are you going to learn that? - Ambiguity of "Programming"](https://dev.to/miguelmj/are-you-going-to-learn-that-ambiguity-of-programming-1kdj)
 
 <!-- BLOG-POST-LIST:END -->
 
