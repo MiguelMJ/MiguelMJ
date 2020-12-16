@@ -14,10 +14,10 @@
 
 :writing_hand: **Personal top posts**
 
-- [Why and how to use pen and paper - Designing algorithms with no code](https://dev.to/miguelmj/why-and-how-to-use-pen-and-paper-design-an-algorithm-11nn)
-- [Beginner tips to do Algebra in Python](https://dev.to/miguelmj/beginner-tips-to-do-algebra-in-python-477e)
-- [The Turing Machine made understandable](https://dev.to/miguelmj/the-turing-machine-made-understandable-35po)
-- [Are you going to learn that? - Ambiguity of "Programming"](https://dev.to/miguelmj/are-you-going-to-learn-that-ambiguity-of-programming-1kdj)
-- [Thoughts on declarative programming - Why I'm learning Prolog](https://dev.to/miguelmj/thoughts-on-declarative-programming-why-i-m-learning-prolog-43be)
+1. [The Turing Machine made understandable](https://dev.to/miguelmj/the-turing-machine-made-understandable-35po)
+2. [Are you going to learn that? - Ambiguity of "Programming"](https://dev.to/miguelmj/are-you-going-to-learn-that-ambiguity-of-programming-1kdj)
+3. [Thoughts on declarative programming - Why I'm learning Prolog](https://dev.to/miguelmj/thoughts-on-declarative-programming-why-i-m-learning-prolog-43be)
+4. [Why and how to use pen and paper - Designing algorithms with no code](https://dev.to/miguelmj/why-and-how-to-use-pen-and-paper-design-an-algorithm-11nn)
+5. [Beginner tips to do Algebra in Python](https://dev.to/miguelmj/beginner-tips-to-do-algebra-in-python-477e)
 
 <h4 align="center">:octocat: Star the repos you like! :octocat:</h4>
