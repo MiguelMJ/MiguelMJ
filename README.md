@@ -26,11 +26,11 @@
 
 <details>
     <summary>:chart_with_upwards_trend: <b>Stats</b></summary>
-    <h4>Stack Exchange</h4>
+    <b>Stack Exchange</b><br>
     <a href="https://stackexchange.com/users/11967851">
         <img src="https://stackexchange.com/users/flair/11967851.png" width="208" height="58">
-    </a>
-    <h4>GitHub</h4>
+    </a><br>
+    <b>GitHub</b><br>
     <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMJ&show_icons=true&hide_rank=true&line_height=20&disable_animations=true">  
     </a>
