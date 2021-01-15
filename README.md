@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [I made a recommendation system for Stack Overflow unanswered questions](https://dev.to/miguelmj/i-made-a-recommendation-system-for-stack-overflow-unanswered-questions-280a)
 - [How to make an ethical crawler in Python](https://dev.to/miguelmj/how-to-make-an-ethical-crawler-in-python-4o1g)
 - [Are one liners always pythonic?](https://dev.to/miguelmj/are-one-liners-always-pythonic-552n)
 - [Why and how to use pen and paper - Designing algorithms with no code](https://dev.to/miguelmj/why-and-how-to-use-pen-and-paper-design-an-algorithm-11nn)
 - [Writing a Conversational User Interface Library - Full Series](https://dev.to/miguelmj/writing-a-conversational-user-interface-library-full-series-3dc5)
-- [The Turing Machine made understandable](https://dev.to/miguelmj/the-turing-machine-made-understandable-35po)
 
 <!-- BLOG-POST-LIST:END -->
 
