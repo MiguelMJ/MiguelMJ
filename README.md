@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Multidisciplinarity - What's there besides code?](https://dev.to/miguelmj/multidisciplinarity-what-s-there-besides-code-2en9)
+- [Sobre la programación declarativa - Por qué estoy aprendiendo Prolog](https://dev.to/miguelmj/sobre-la-programacion-declarativa-por-que-estoy-aprendiendo-prolog-3o8c)
 - [Escapar correctamente expresiones regulares](https://dev.to/miguelmj/escapar-correctamente-expresiones-regulares-dl2)
 - [Making a level editor with SFML (C++) - Part 1](https://dev.to/miguelmj/making-a-level-editor-with-sfml-c-part-1-2mm0)
 - [About bilingual writers in DEV](https://dev.to/miguelmj/about-bilingual-writers-in-dev-1gn2)
-- [I made a recommendation system for Stack Overflow unanswered questions](https://dev.to/miguelmj/i-made-a-recommendation-system-for-stack-overflow-unanswered-questions-280a)
-- [How to make an ethical crawler in Python](https://dev.to/miguelmj/how-to-make-an-ethical-crawler-in-python-4o1g)
 
 <!-- BLOG-POST-LIST:END -->
 
