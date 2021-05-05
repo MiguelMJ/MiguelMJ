@@ -1,16 +1,15 @@
 <h2 align="center">Hi, I'm Miguel</h2>
 
-:page_facing_up: **Skills**
+:computer: **Skills**
 
-- My preferred languages are C++11 and Python.
-- I also know Java, Javascript and Prolog and sometimes I think I know R and Matlab/Octave. I used to work a lot with Flex and Bison.
-- My tools: Bash, AWK, Makefile. Once every century. Unity.
-- Sometimes I experiment with web development.
-- My interests include classical and modern AI (specially NLP and Computer Vision) and Game Engines.
+- My top languages are **Python** and **C++11**, specially with **SFML**.
+- I also know **Java**, **Javascript**, **Prolog** and sometimes I think I know **R** and **Matlab/Octave**. My relationship with **Bash** is stable, but with **Flex** and **Bison** it is complicated.
+- From time to time I experiment with web development (**Flask**, **Node** or **Jekyll**) or, when the stars align, **Unity**.
+- My interests include classical and modern **AI** (specially NLP and Computer Vision), **Game Engines** and **Programming Languages**.
 
 ***
 
-:mailbox: **Links** 
+:globe_with_meridians: **Links** 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/MiguelMJdev) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US "Linkedin") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8757033 "Stack Overflow") [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffe-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj "Buy me a coffee") [![DEV](https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/miguelmj "DEV Community") [![Portfolio](https://img.shields.io/badge/-Portfolio-black?&style=for-the-badge&logoColor=white)](https://miguelmj.github.io "Personal site")
 
@@ -45,7 +44,7 @@
     </a>
     </p>
 </details>
-***
 
+***
 
 <h4 align="center">Star the repos you like! :star::octocat:</h4>
