@@ -1,16 +1,20 @@
 <h2 align="center">Hi, I'm Miguel</h2>
 
-:page_facing_up: **About**
+:page_facing_up: **Skills**
 
-- My favorite tools are C++, SFML, and Flex & Bison. I also use Bash, Java and Python.
-- Currently I'm learning Prolog and _web development_. I plan to eventually learn R, Matlab or Octave.
-- My general areas of interests are <i>:robot: Chatbots :gear: Game Engines :brain: Machine Learning :speaking_head: NLP</i>.
+- My preferred languages are C++11 and Python.
+- I also know Java, Javascript and Prolog and sometimes I think I know R and Matlab/Octave. I used to work a lot with Flex and Bison.
+- My tools: Bash, AWK, Makefile. Once every century. Unity.
+- Sometimes I experiment with web development.
+- My interests include classical and modern AI (specially NLP and Computer Vision) and Game Engines.
 
-:mailbox: **Contact me**
+***
 
-- E-mail: miguelmejiajimenez@hotmail.com
-- Find me on: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MiguelMJdev) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8757033) [![buy me a coffee](https://img.shields.io/badge/-buy_me_a_coffe-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj)
-- I keep a weekly blog in [![DEV](https://img.shields.io/badge/-DEV-black?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/miguelmj) and other stuff in my [personal site](https://miguelmj.github.io).
+:mailbox: **Links** 
+
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/MiguelMJdev) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US "Linkedin") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8757033 "Stack Overflow") [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffe-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj "Buy me a coffee") [![DEV](https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/miguelmj "DEV Community") [![Portfolio](https://img.shields.io/badge/-Portfolio-black?&style=for-the-badge&logoColor=white)](https://miguelmj.github.io "Personal site")
+
+***
 
 :writing_hand: **Latest posts**
 
@@ -23,6 +27,8 @@
 - [Sobre la programación declarativa - Por qué estoy aprendiendo Prolog](https://dev.to/miguelmj/sobre-la-programacion-declarativa-por-que-estoy-aprendiendo-prolog-3o8c)
 
 <!-- BLOG-POST-LIST:END -->
+
+***
 
 <details>
     <summary>:chart_with_upwards_trend: <b>Stats</b></summary>
@@ -39,7 +45,7 @@
     </a>
     </p>
 </details>
-
+***
 
 
 <h4 align="center">Star the repos you like! :star::octocat:</h4>
