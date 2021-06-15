@@ -20,11 +20,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Data structures in Prolog - Where to start](https://dev.to/miguelmj/data-structures-in-prolog-where-to-start-53gm)
 - [Make your Python program highly configurable](https://dev.to/miguelmj/make-your-python-program-highly-configurable-3blk)
 - [Trucos básicos de álgebra en Python](https://dev.to/miguelmj/trucos-basicos-de-algebra-en-python-48mf)
 - [Open sourcing a Python project? - Tools you should know about](https://dev.to/miguelmj/open-sourcing-a-python-project-tools-you-should-know-about-8bc)
 - [Multidisciplinarity - What's there besides code?](https://dev.to/miguelmj/multidisciplinarity-what-s-there-besides-code-2en9)
-- [Sobre la programación declarativa - Por qué estoy aprendiendo Prolog](https://dev.to/miguelmj/sobre-la-programacion-declarativa-por-que-estoy-aprendiendo-prolog-3o8c)
 
 <!-- BLOG-POST-LIST:END -->
 
