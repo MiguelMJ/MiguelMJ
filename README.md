@@ -2,7 +2,7 @@
 
 :computer: **Skills**
 
-- My top languages are **Python** and **C++11**, specially with **SFML**.
+- My favourite languages are **Python** and **C++11**, specially with **SFML**.
 - Probably I'm writing something in **Bash** right now.
 - I also know **Java**, **Javascript**, **Prolog** and sometimes I think I know **R** and **Matlab/Octave**. I used to do a lot with **Flex** and **Bison**.
 - From time to time I experiment with web development (**Flask**, **Node** or **Jekyll**) or, when the stars align, **Unity**.
