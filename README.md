@@ -21,11 +21,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Hackathon submission - An audio search engine powered by Deepgram](https://dev.to/miguelmj/hackathon-submission-an-audio-search-engine-powered-by-deepgram-3cf)
 - [How to get answers on StackOverflow](https://dev.to/miguelmj/how-to-get-answers-on-stackoverflow-3pp7)
 - [Custom solution for fast navigation in Bash](https://dev.to/miguelmj/custom-solution-for-fast-navigation-in-bash-12e1)
 - [Building and using Markov chains - AI for text generation - Part II](https://dev.to/miguelmj/building-and-using-markov-chains-ai-for-text-generation-part-ii-1172)
 - [Introduction to Markov chains - AI for text generation - Part I](https://dev.to/miguelmj/introduction-to-markov-chains-ai-for-text-generation-part-i-eha)
-- [Take full advantage of high order functions - Examples in Javascript](https://dev.to/miguelmj/take-full-advantage-of-high-order-functions-examples-in-javascript-4ibg)
 
 <!-- BLOG-POST-LIST:END -->
 
