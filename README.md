@@ -21,11 +21,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [How to build a basic REST API in Lua - Milua micro framework](https://dev.to/miguelmj/how-to-build-a-basic-rest-api-in-lua-milua-micro-framework-332h)
 - [Hackathon submission - Idea: Group dynamics analysis](https://dev.to/miguelmj/hackathon-submission-idea-group-dynamics-analysis-13dd)
 - [Hackathon submission - Interactive conversation scripts for language learning](https://dev.to/miguelmj/hackathon-submission-interactive-conversation-scripts-for-language-learning-110c)
 - [Hackathon submission - An audio search engine powered by Deepgram](https://dev.to/miguelmj/hackathon-submission-an-audio-search-engine-powered-by-deepgram-3cf)
 - [How to get answers on StackOverflow](https://dev.to/miguelmj/how-to-get-answers-on-stackoverflow-3pp7)
-- [Custom solution for fast navigation in Bash](https://dev.to/miguelmj/custom-solution-for-fast-navigation-in-bash-12e1)
 
 <!-- BLOG-POST-LIST:END -->
 
