@@ -48,6 +48,4 @@
     </p>
 </details>
 
-***
-
-<h4 align="center">Star the repositories you like :star::octocat:</h4>
+<strong>Star the repositories you like :star::octocat:</strong>
