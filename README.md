@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Miguel</h2>
+<h2>MiguelMJ</h2>
 
 <details>
 <summary> :computer: <b>Skills</b> </summary>
@@ -12,13 +12,7 @@
 
 </details>
 <details>
-<summary> :globe_with_meridians: <b>Links</b></summary>
-
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/MiguelMJdev) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US "Linkedin") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8757033 "Stack Overflow") [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffe-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj "Buy me a coffee") [![DEV](https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/miguelmj "DEV Community") [![Portfolio](https://img.shields.io/badge/-Portfolio-black?&style=for-the-badge&logoColor=white)](https://miguelmj.github.io "Personal site")
-
-</details>
-<details>
-<summary> :writing_hand: <b>Best posts</b></summary>
+<summary> :writing_hand: <b>Latest posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -46,6 +40,12 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMJ&layout=compact&exclude_repo=MiguelMJ,MiguelMJ.github.io">
     </a>
     </p>
+</details>
+<details>
+<summary> :globe_with_meridians: <b>Links</b></summary>
+
+[![Website](https://img.shields.io/badge/-Website-black?&style=for-the-badge&logoColor=white)](https://miguelmj.github.io "Personal site") [![Hashnode](https://img.shields.io/badge/-Blog-black?&style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.miguelmj.dev "Blog") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8757033 "Stack Overflow") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-mej%C3%ADa-jim%C3%A9nez/?locale=en_US "Linkedin") [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://twitter.com/MiguelMJdev) [![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a_coffe-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/miguelmj "Buy me a coffee") 
+
 </details>
 
 <strong>Star the repositories you like :star::octocat:</strong>
