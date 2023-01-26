@@ -7,8 +7,9 @@
 - Probably I'm writing something in **Bash** right now.
 - I also know **Javascript**, **Prolog**, **Java**, **Lua** and sometimes I think I know **R** and **Matlab/Octave**. I used to do a lot with **Flex** and **Bison**.
 - I've used **Unity** for game development, but now I prefer **Godot**. 
-- From time to time I experiment with web development (**Flask**, **Node** or **Jekyll**).
-- My interests include classical and modern **AI** (specially NLP and Computer Vision), **Game Engines** and **Programming Languages**, both the practice and the theory.
+- From time to time I experiment with web development.
+- I like **LaTeX**. I love **LuaLaTeX**.
+- My interests include classical and modern **Artificial Intelligence**, **Game Engines** and **Programming Languages**.
 
 </details>
 <details>
