@@ -17,11 +17,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Programming mathematical objects](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
 - [My blogging journey until now - I&#39;m moving to Hashnode](https://dev.to/miguelmj/my-blogging-journey-until-now-im-moving-to-hashnode-496b)
 - [Make It Pixel! - Make pixel art from any image](https://dev.to/miguelmj/make-it-pixel-make-pixel-art-from-any-image-2o4n)
 - [High level programming - Explaining abstraction](https://dev.to/miguelmj/high-level-programming-explaining-abstraction-4ko)
 - [JavaScript is not an untyped language](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
-- [How to build a basic REST API in Lua - Milua micro framework](https://dev.to/miguelmj/how-to-build-a-basic-rest-api-in-lua-milua-micro-framework-332h)
 
 <!-- BLOG-POST-LIST:END -->
 
