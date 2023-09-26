@@ -5,11 +5,10 @@
 
 - My favourite languages are **Python** and **C++11**, specially with **SFML**.
 - Probably I'm writing something in **Bash** right now.
-- I also know **Javascript**, **Prolog**, **Java**, **Lua** and sometimes I think I know **R** and **Matlab/Octave**. I used to do a lot with **Flex** and **Bison**.
-- I've used **Unity** for game development, but now I prefer **Godot**. 
-- From time to time I experiment with web development.
-- I like **LaTeX**. I love **LuaLaTeX**.
-- My interests include classical and modern **Artificial Intelligence**, **Game Engines** and **Programming Languages**.
+- Programming Languages Theory is a big interest of mine, so I also know **Javascript**, **Prolog**, **Java** and **Lua**. I have worked with **R** and **Matlab/Octave**. I used to do a lot with **Flex** and **Bison**.
+- I love **Godot**. 
+- From time to time I experiment with brutalist web development.
+- **LaTex** and **LuaLaTex** when I want beauty and automation.
 
 </details>
 <details>
