@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Programming as a conversation - How the communicative scheme is also applied in the written code itself](https://dev.to/miguelmj/programming-as-a-conversation-how-the-communicative-scheme-is-also-applied-in-the-written-code-itself-5378)
 - [When numbers don&#39;t make sense](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
 - [Programming mathematical objects](https://dev.to/miguelmj/programming-mathematical-objects-1n3n)
 - [My blogging journey until now - I&#39;m moving to Hashnode](https://dev.to/miguelmj/my-blogging-journey-until-now-im-moving-to-hashnode-496b)
 - [Make It Pixel! - Make pixel art from any image](https://dev.to/miguelmj/make-it-pixel-make-pixel-art-from-any-image-2o4n)
-- [High level programming - Explaining abstraction](https://dev.to/miguelmj/high-level-programming-explaining-abstraction-4ko)
 
 <!-- BLOG-POST-LIST:END -->
 
